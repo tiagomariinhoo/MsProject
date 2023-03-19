@@ -1,0 +1,196 @@
+{
+    "datasets": [
+        {
+            "name": "Iris",
+            "default_params_result": 96.0,
+            "best_params_result": 96.66666666666669,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 2,
+                "gamma": 0.2,
+                "subsample": 1.0,
+                "colsample_bytree": 0.2
+            }
+        },
+        {
+            "name": "Wine",
+            "default_params_result": 94.98412698412699,
+            "best_params_result": 97.77777777777779,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 2,
+                "gamma": 0,
+                "subsample": 0.5,
+                "colsample_bytree": 0.5
+            }
+        },
+        {
+            "name": "Breast Cancer",
+            "default_params_result": 97.71619313771154,
+            "best_params_result": 98.24250892718523,
+            "params": {
+                "max_depth": 5,
+                "min_child_weight": 2,
+                "gamma": 0,
+                "subsample": 1.0,
+                "colsample_bytree": 0.5
+            }
+        },
+        {
+            "name": "Diabetes",
+            "default_params_result": 75.26525761819879,
+            "best_params_result": 77.61480349715643,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 1,
+                "gamma": 5,
+                "subsample": 0.5,
+                "colsample_bytree": 0.5
+            }
+        },
+        {
+            "name": "BankNote",
+            "default_params_result": 99.63583278035833,
+            "best_params_result": 99.92727272727272,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 1,
+                "gamma": 0,
+                "subsample": 0.2,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "Glass",
+            "default_params_result": 64.99446290143965,
+            "best_params_result": 69.16943521594685,
+            "params": {
+                "max_depth": 5,
+                "min_child_weight": 2,
+                "gamma": 0,
+                "subsample": 0.5,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "IndianLiver",
+            "default_params_result": 69.63748894783377,
+            "best_params_result": 71.53551429413497,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 1,
+                "gamma": 1,
+                "subsample": 0.5,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "ObesityLevelBasedOnEatingHabits",
+            "default_params_result": 95.69504666509808,
+            "best_params_result": 95.83711471883298,
+            "params": {
+                "max_depth": 4,
+                "min_child_weight": 1,
+                "gamma": 0,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "WebsitePhishing",
+            "default_params_result": 95.91135232926277,
+            "best_params_result": 96.39077340569878,
+            "params": {
+                "max_depth": 7,
+                "min_child_weight": 1,
+                "gamma": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "Musk",
+            "default_params_result": 89.99882831346059,
+            "best_params_result": 90.01397982861214,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 1,
+                "gamma": 0,
+                "subsample": 0.2,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "Penbased",
+            "default_params_result": 97.60706847888919,
+            "best_params_result": 97.989205118879,
+            "params": {
+                "max_depth": 5,
+                "min_child_weight": 1,
+                "gamma": 0,
+                "subsample": 1.0,
+                "colsample_bytree": 0.5
+            }
+        },
+        {
+            "name": "VehiclesSilhouette",
+            "default_params_result": 96.57361642882003,
+            "best_params_result": 97.63661677688826,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 1,
+                "gamma": 0,
+                "subsample": 0.5,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "BankMarketing",
+            "default_params_result": 80.3986833213752,
+            "best_params_result": 81.42863162051148,
+            "params": {
+                "max_depth": 4,
+                "min_child_weight": 2,
+                "gamma": 5,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "DevIndex",
+            "default_params_result": 98.66666666666667,
+            "best_params_result": 99.11111111111111,
+            "params": {
+                "max_depth": 3,
+                "min_child_weight": 2,
+                "gamma": 0,
+                "subsample": 0.5,
+                "colsample_bytree": 0.5
+            }
+        },
+        {
+            "name": "TravelInsurance",
+            "default_params_result": 98.4366595893935,
+            "best_params_result": 98.53772551912108,
+            "params": {
+                "max_depth": 4,
+                "min_child_weight": 2,
+                "gamma": 5,
+                "subsample": 0.5,
+                "colsample_bytree": 1.0
+            }
+        },
+        {
+            "name": "IncomeEvaluation",
+            "default_params_result": 87.09499447523399,
+            "best_params_result": 87.35912695493533,
+            "params": {
+                "max_depth": 4,
+                "min_child_weight": 1,
+                "gamma": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 0.5
+            }
+        }
+    ] 
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "dataset": "nome.csv",
+        "default_result": 95,
+        "results_each_hyperparameter": [
+            {
+                "dataset": "data1.csv",
+                "distance": 23.8,
+                "result_with_hiperparameter": 99.0,
+                "greater_than_default": true
+            },
+            {
+                "dataset": "data2.csv",
+                "distance": 23.8,
+                "result_with_hiperparameter": 99.0,
+                "greater_than_default": true
+            }
+        ],
+        "results_according_k": {
+            "1": {
+                "mean": 99,
+                "mode": 98,
+                "mean_good_datasets": 99,
+                "mode_good_datasets": 99
+            },
+            "2": {
+
+            }
+        },
+        "best_mean_result": 99,
+        "best_mean_k_number": 4,
+        "best_mode_result": 98,
+        "best_mode_k_number": 5,
+        "result_using_best_datasets_mean": 98,
+        "result_using_best_datasets_mode": 99,
+        "best_result_using_hyperparameter_directly": 99
+    },
+    {
+        "dataset": "nome.csv",
+        "default_result": 95,
+        "result": [
+            {
+                "dataset": "data1.csv",
+                "distance": 23.8,
+                "result_with_hiperparameter": 99.0,
+                "greater_than_default": true
+            },
+            {
+                "dataset": "data2.csv",
+                "distance": 23.8,
+                "result_with_hiperparameter": 99.0,
+                "greater_than_default": true
+            }
+        ],
+        "hyperparameters_greater_than_default": 6
+    }
+]
